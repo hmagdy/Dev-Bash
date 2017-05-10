@@ -7,7 +7,6 @@ http://irfandurmus.com
 
 ~/.bashrc file
 
-https://github.com/hmagdy/Dev-Bashrc
 
 Just copy to your home directory as .bashrc to installation.
 
