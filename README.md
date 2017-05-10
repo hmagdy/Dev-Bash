@@ -10,7 +10,7 @@ http://irfandurmus.com
 
 Just copy to your home directory as .bashrc to installation.
 
-!!!! Attendion !!!!
+!!! Attendion !!!
 If you already have the ~/.bashrc file please backup it before use this file
 
 Examples:
