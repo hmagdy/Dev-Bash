@@ -1,4 +1,4 @@
-About the Developer's Prompt 
+About Dev-Bashrc
 --------------------------------------
 
 This script is simple file will help you having more productive shell specially on working with git repositories ;) So Code, Enjoy and Thank this guy 
