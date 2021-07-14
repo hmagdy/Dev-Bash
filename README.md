@@ -9,6 +9,20 @@ So Code, Enjoy and Thank this guy
 http://irfandurmus.com
 
 
+On Mac:
+
+```
+git clone git@github.com:hmagdy/Dev-Bash.git
+
+cd Dev-Bash
+
+cp ~/.bash_profile ~/bash_profile
+
+cp ./MAC/bash_profile.sh  ~/.bash_profile
+
+cat ~/.bash_profile
+```
+
 
 
 
